@@ -33,7 +33,7 @@ def main(folder_path):
         for image_path in images:
             print(f"Processing image: {image_path}")
             response = ollama.chat(
-                model='llama3.2-vision',
+                model='llama3.2-vision', # check the models https://ollama.com/search?c=vision
                 messages=[{
                     'role': 'user',
                     'content': 'How many lanes are there?',
