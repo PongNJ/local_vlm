@@ -1,6 +1,6 @@
 # Run `llama3.2-vision` Locally Using Ollama
 
-This guide demonstrates how to use the `llama3.2-vision` model with Ollama to analyze images. You can modify the prompt by changing the `'content'` field.
+This guide demonstrates using the `llama3.2-vision` model with Ollama to analyse images. You can modify the prompt by changing the `'content'` field.
 
 ## Installation
 
@@ -30,7 +30,7 @@ for image_path in images:
 ```
 ## Running the Script
 Save the script as test.py and execute it with the path to the image folder:
-```python
+```terminal
 python test.py /path/to/folder
 
 ```
@@ -41,7 +41,7 @@ Replace /path/to/folder with the actual directory containing your images.
 
 ### PS: You can change the models available on Ollama by modifying the model parameter in the script.
 
-### PS2: Currently, Ollama does not offer a model for video captioning. If you need video captioning, consider exploring models available on Hugging Face, such as some of the 7B or 11B variants, which might be capable of handling this task.
+### PS2: Currently, Ollama does not offer a model for video captioning. If you need video captioning, consider exploring models available on Hugging Face, such as some of the 7B, 8B or 11B, which might be capable of handling this task.
 
 ### Check this for video-text-to-text:
 https://huggingface.co/models?pipeline_tag=video-text-to-text
