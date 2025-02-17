@@ -8,7 +8,7 @@ Ensure you have [Ollama](https://ollama.ai) installed on your system.
 
 ```sh
 pip install ollama  # Install Ollama if not already installed
-
+```
 
 ## Example Usage
 
@@ -28,6 +28,7 @@ for image_path in images:
     result_text = response['message']['content']
     print(f"Result: {result_text}")
 ```
+
 ## Running the Script
 Save the script as test.py and execute it with the path to the image folder:
 ```terminal
