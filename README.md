@@ -43,5 +43,8 @@ Replace /path/to/folder with the actual directory containing your images.
 
 ### PS2: Currently, Ollama does not offer a model for video captioning. If you need video captioning, consider exploring models available on Hugging Face, such as some of the 7B or 11B variants, which might be capable of handling this task.
 
+### Check this for video-text-to-text:
+https://huggingface.co/models?pipeline_tag=video-text-to-text
+
 
 
