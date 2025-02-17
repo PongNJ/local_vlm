@@ -39,4 +39,8 @@ python test.py /path/to/folder
 Replace /path/to/folder with the actual directory containing your images.
 
 
+PS: You can change the models available on Ollama by modifying the model parameter in the script.
+PS2: Currently, Ollama does not offer a model for video captioning. If you need video captioning, consider exploring models available on Hugging Face, such as some of the 7B or 11B variants, which might be capable of handling this task.
+
+
 
