@@ -1,0 +1,10 @@
+Image,Response
+/Users/stupong/Desktop/ThaiRAP/test/20240401_11-ROW-0-01082.jpg,"There appear to be two lanes. The leftmost lane is separated by a curb, and the rightmost lane appears to be a shoulder. There also appears to be another lane on the other side of the road that is not visible in this image.
+
+Final Answer: There are 2 or possibly 3 lanes depending on whether you count the shoulder as a lane."
+/Users/stupong/Desktop/ThaiRAP/test/20240401_11-ROW-0-01072.jpg,"There appear to be two lanes in the image, each with a solid yellow line separating them. There is also a bike lane on the far left of the road."
+/Users/stupong/Desktop/ThaiRAP/test/20240401_11-ROW-0-01067.jpg,"There appear to be two lanes. One lane going in the direction of the camera and one lane going away from it. There may be additional lanes on either side that aren't visible, but based on this image alone, it looks like a two-lane road."
+/Users/stupong/Desktop/ThaiRAP/test/20240401_11-ROW-0-01077.jpg,"There appear to be two lanes. The left lane is a bike path, indicated by the dashed white lines and the lack of markings on the ground. The right lane appears to be a regular roadway. There may be another bike path on the opposite side of the road as well. It's difficult to tell for sure without seeing more images or having additional context.
+
+There are also sidewalks on both sides, which is not indicated in this image. The image shows the center of the road and does not extend far enough either direction to see the sidewalks."
+/Users/stupong/Desktop/ThaiRAP/test/20240401_11-ROW-0-01062.jpg,"There appear to be two lanes on this road, one in each direction."
